@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+.tituloDestaque {
+    color: #22D4FD;
+}
+
+.apresentacao {
+    display: flex;
+    align-items: center;
+}
+
